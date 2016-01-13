@@ -1,0 +1,48 @@
+html {
+   margin: 0px;
+   height: 100%;
+   width: 100%;
+}
+body {
+   margin: 0px;
+   min-height: 100%;
+   width: 100%;
+}
+
+#footer {
+  position:relative;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#cedce7), color-stop(100%,#596a72));
+  height: 5em;
+  width: 78 em;
+  padding-top: 1.5em;
+  text-align: center;
+}
+
+.drop-down {
+  height: 2.5em;
+  display: inline-block;
+}
+
+.resumeSection {
+  display: none;
+}
+
+.header {
+  display: inline;
+}
+
+.bgdimg {
+  height: 35.8em;
+  background: url(images/background.jpg) no-repeat;
+  background-size: 100% 100%;
+  padding: 0;
+}
+.black {
+  background-color: black;
+}
+.bigfont {
+  font-size: 13pt;
+}
+.italic {
+  font-style: italic;
+}
